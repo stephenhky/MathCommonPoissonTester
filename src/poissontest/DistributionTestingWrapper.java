@@ -1,4 +1,4 @@
-package gov.nih.cit.htjoin.poissontest;
+package poissontest;
 
 import java.util.List;
 

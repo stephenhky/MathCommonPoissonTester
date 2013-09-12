@@ -1,4 +1,4 @@
-package gov.nih.cit.htjoin.poissontest;
+package poissontest;
 
 public class PoissonParameterBean extends DistributionParametersBean {
 	private double lambda;
